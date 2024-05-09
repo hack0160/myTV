@@ -1,55 +1,26 @@
-Category 1,#4K#
-Red Bull TV UHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?nmstv.m3u8
-Russian Extreme Ultra HD,https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-Наша Сибирь 4K,https://tv24h/3927/stream?access_token=60e7bd6049f70cfffe0dee01fff89569593128d5
-Наша Сибирь 4K,https://livetv.mylifeisgood.ml/channels/nashasibir4k
-Наша Сибирь 4K,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-Наша Сибирь 4K,http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+Category 1,#General#
+1+1 (1080p),https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+1+2,http://89.254.128.5:22280/1_2/mono.m3u8
+1Almere TV (720p),https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+1TV (720p),https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+1Twente TV (1080p),https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+1Yes News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
+002 Radio TV (720p),https://cdn.002radio.com:3909/live/radio002live.m3u8
+2A TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCh57LRfcD3Z4TK6WrzL39GA.m3u8
+2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+2M Monde (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+2S TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
+2TV (720p),https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-Category 2,#Индия#
-Bollywood,https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-Bollywood,http://only-tv.org/bollywood.html
-Bollywood,http://only-tv.net/bollywood.html
-Bollywood HD,https://sc.id-tv.kz/bollywood_hd
-Zee TV,http://starnet-md.ZEETV_H264
+Category 2,#Shop#
+1-2-3 TV (270p),https://123tv-mx1.flex-cdn.net/index.m3u8
 
-Category 3,#КиноМИР#
-Индийское кино,https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
-Индийское кино,http://bluepoint/3296?archive=true
-Индийское кино,https://www.voka.tv/dc408463-91b9-43ff-8aca-1a6d88054994
+Category 3,#Music#
+1Music Channel Hungary (576p),http://1music.hu/1music.m3u8
 
-Category 4,#Матч#
-Eurosport 1,http://only-tv.org/eurosport.html
-Eurosport 1 HD,https://www.voka.tv/d7043c48-5fe9-426f-bf28-a7ed1f8d61d5
-Eurosport 1 HD,https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-Eurosport 2 HD,http://starnet-md.EUROSPORT2HD_H264&amp;tshift=true
-KHL,http://bluepoint/3307?archive=true
-KHL,https://www.voka.tv/bacba19c-86e8-45d3-bb66-8411440e0ec0
-KHL Prime,https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
-KHL Prime,https://www.voka.tv/999edfe8-70d3-4510-b10c-b997def655ad
-KHL Prime,http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?offset=1
-Setanta Sports 1 HD,http://starnet-md.SETANTA_HD_H264
-Setanta Sports 1 HD,https://www.voka.tv/f9aa64b0-75bc-4ae6-a246-6dc859fc6f58
-Setanta Sports 2 HD,http://only-tv.org/setanta-sports-2.html
-Setanta Sports 2 HD,http://starnet-md.SETANTAPLUS_HD_H264
-Setanta Sports 2 HD,http://only-tv.net/setanta-sports-plus.html
-Setanta Sports 2 HD,https://www.voka.tv/bad713b4-4d00-4b0d-867b-5ee002834561
-Viasat Sport,https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
-Viasat Sport,http://bluepoint/3321?archive=true
-Viasat Sport HD,http://starnet-md.VIASAT_SPORTHD_H264
-Viasat Sport HD,https://livetv.mylifeisgood.ml/channels/viasatsporthd
-Viasat Sport HD,https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-Viasat Sport HD,https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-Eurosport 2 HD,http://only-tv.org/eurosport-2.html
-МАТЧ! Планета,https://www.voka.tv/570743eb-2d7f-4aa9-b5f5-e6d7ba6a60ac
-Матч! Боец,http://only-tv.org/match-boets.html
-Матч! Арена,http://bluepoint/3308?archive=true
-Матч! Боец,http://bluepoint/3316?archive=true
-Матч! Боец,http://api.peers.tv/timeshift/boets/16/playlist.m3u8?offset=1
-Матч! Игра,http://bluepoint/3315?archive=true
-Матч! Планета,http://starnet-md.MATCH_PLANETA_H264
-Матч! Премьер,http://bluepoint/3313?archive=true
-Матч! Премьер,http://only-tv.org/match-premer.html
-Матч! Премьер HD,https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-Матч! Страна,http://bluepoint/3314?archive=true
-Матч! Страна,http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?offset=1
+Category 4,#News#
+1Yes News (720p) [Not 24/7],https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
+2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+
+Category 5,#Education#
+2S TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
