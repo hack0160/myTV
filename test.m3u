@@ -1,1 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MY177" tvg-name="Astro SuperSport Events 3" tvg-logo="logo_url",MY177:Astro SuperSport Events 3
+http://yesimes.oknirvana.club:8880/12mmc210149/95196623/71146
+#EXTGRP:Malaysia
+
+#EXTINF:-1 tvg-id="MY178" tvg-name="SPOTV" tvg-logo="logo_url",MY178:SPOTV
+http://yesimes.oknirvana.club:8880/12mmc210149/95196623/71147
+#EXTGRP:Malaysia
+
+#EXTINF:-1 tvg-id="MY179" tvg-name="TVS" tvg-logo="logo_url",MY179:TVS
+http://yesimes.oknirvana.club:8880/12mmc210149/95196623/71148
+#EXTGRP:Malaysia
+
+#EXTINF:-1 tvg-id="MY180" tvg-name="Awesome TV" tvg-logo="logo_url",MY180:Awesome TV
+http://yesimes.oknirvana.club:8880/12mmc210149/95196623/71149
+#EXTGRP:Malaysia
+
+#EXTINF:-1 tvg-id="Channel5" tvg-name="Channel 5" tvg-logo="logo_url",Channel 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&stream=941615&extension=ts&play_token=mAu9eni3Op#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&stream=941615&extension=ts&play_token=tNpZRk25Er#http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&stream=941615&extension=ts&play_token=fWz7iIbcnK
+#EXTGRP:Singapore
+
+#EXTINF:-1 tvg-id="Channel8" tvg-name="Channel 8" tvg-logo="logo_url",Channel 8
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&stream=941616&extension=ts&play_token=dHIOeprD8b#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&stream=941616&extension=ts&play_token=FhAWUoChmP#http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&stream=941616&extension=ts&play_token=76sY61TqWE
+#EXTGRP:Singapore
+
+#EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" tvg-logo="logo_url",Channel U
+#EXTGRP:Singapore
 
