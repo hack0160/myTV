@@ -1,42 +1,83 @@
 #EXTM3U
-#EXTINF:-1 group-title="Malaysia",ASIAN FOOD CHANNEL,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=534440&extension=ts&play_token=SEewjTli8t#P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
-#EXTINF:-1 group-title="Malaysia",FOOD NETWORK HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571179&extension=ts&play_token=EKf4y1UNnt
-#EXTINF:-1 group-title="Malaysia",DISCOVERY ASIA [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571181&extension=ts&play_token=VRPpjoJ0Lz
-#EXTINF:-1 group-title="Malaysia",CELESTIAL MOVIES [ASTRO],http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1718.ts
-#EXTINF:-1 group-title="Malaysia",CELESTIAL CLASSIC MOVIES [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571182&extension=ts&play_token=d1GqjtyOeF
-#EXTINF:-1 group-title="Malaysia",WWE NETWORK [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571184&extension=ts&play_token=2lMTq7lno8
-#EXTINF:-1 group-title="Malaysia",TVB JADE [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571187&extension=ts&play_token=uNzsbd8mFh
-#EXTINF:-1 group-title="Malaysia",TVB E-NEWS [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571188&extension=ts&play_token=uecqvuvcHj
-#EXTINF:-1 group-title="Malaysia",TLC HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571189&extension=ts&play_token=31KOqgZjo2
-#EXTINF:-1 group-title="Malaysia",ONE HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571193&extension=ts&play_token=1adjIRQJk3
-#EXTINF:-1 group-title="Malaysia",TVB CLASSIC [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571197&extension=ts&play_token=XXWekQ9Zg0
-#EXTINF:-1 group-title="Malaysia",IQIYI HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571198&extension=ts&play_token=gQ80lZL1bZ
-#EXTINF:-1 group-title="Malaysia",HITS MOVIES [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571200&extension=ts&play_token=3LrPAO2n1H
-#EXTINF:-1 group-title="Malaysia",HISTORY HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571201&extension=ts&play_token=9IDotT4eDt
-#EXTINF:-1 group-title="Malaysia",DMAX HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571206&extension=ts&play_token=OHIRCIvfPJ
-#EXTINF:-1 group-title="Malaysia",DISNEY JUNIOR [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571208&extension=ts&play_token=zPefIyvHms
-#EXTINF:-1 group-title="Malaysia",DISCOVERY HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571210&extension=ts&play_token=rwT69XR29H
-#EXTINF:-1 group-title="Malaysia",DISCOVERY SCI HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571211&extension=ts&play_token=N0NOsjPlLD
-#EXTINF:-1 group-title="Malaysia",CTI ASIA [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571212&extension=ts&play_token=sgvLJz4t87
-#EXTINF:-1 group-title="Malaysia",CINEMAX HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571214&extension=ts&play_token=wVfte6lQIQ
-#EXTINF:-1 group-title="Malaysia",CRIME INVESTIGATION HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571215&extension=ts&play_token=W2NNQAPdzN
-#EXTINF:-1 group-title="Malaysia",CGTN [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571216&extension=ts&play_token=VpqccoT4pl
-#EXTINF:-1 group-title="Malaysia",AXN HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571222&extension=ts&play_token=cdCERm0pH0
-#EXTINF:-1 group-title="Malaysia",AOD 352 [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571225&extension=ts&play_token=bF1U9VNPon
-#EXTINF:-1 group-title="Malaysia",ANIMAL PLANET HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571227&extension=ts&play_token=RZq2XbI41f
-#EXTINF:-1 group-title="Malaysia",XIAO TAI YANG [H],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571230&extension=ts&play_token=MRMADB1isd
-#EXTINF:-1 group-title="Malaysia",OASIS HD [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571238&extension=ts&play_token=YNdTLbKy9Y
-#EXTINF:-1 group-title="Malaysia",AWANI [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571243&extension=ts&play_token=pOhfRI7pSL
-#EXTINF:-1 group-title="Malaysia",CRICKET [SP],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571244&extension=ts&play_token=Y4YEJt4Dm7
-#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 1 HD [SP],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571245&extension=ts&play_token=DrjoIhWn6A
-#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 2 HD [SP],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571248&extension=ts&play_token=fD3wWWYCF2
-#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 3 HD [SP],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571247&extension=ts&play_token=pXtwPncbT9
-#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 4 HD [SP],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571246&extension=ts&play_token=QV64UQ61Vj
-#EXTINF:-1 group-title="Malaysia",HITS [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571252&extension=ts&play_token=Uxqw6s9IUL
-#EXTINF:-1 group-title="Malaysia",CNA [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571251&extension=ts&play_token=7dblxU1TP3
-#EXTINF:-1 group-title="Malaysia",RANIA [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571256&extension=ts&play_token=fu4U3zU5VF
-#EXTINF:-1 group-title="Malaysia",AURA [ASTRO],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571257&extension=ts&play_token=5LRUbBiRLL
-#EXTINF:-1 group-title="Malaysia",TVN [H],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571260&extension=ts&play_token=XtA4c6UGdj
-#EXTINF:-1 group-title="Malaysia",TVN MOVIES [H],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571261&extension=ts&play_token=PO0sUF3ywn
-#EXTINF:-1 group-title="Malaysia",NICKELODEON [H],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571283&extension=ts&play_token=ZRgnKJlnox
-#EXTINF:-1 group-title="Malaysia",BERNAMA NEWS [H],http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571307&extension=ts&play_token=cpTUahvIeR
+#EXTINF:-1 group-title="Malaysia",ASIAN FOOD CHANNEL
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=534440&extension=ts&play_token=SEewjTli8t#P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
+#EXTINF:-1 group-title="Malaysia",FOOD NETWORK HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571179&extension=ts&play_token=EKf4y1UNnt
+#EXTINF:-1 group-title="Malaysia",DISCOVERY ASIA [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571181&extension=ts&play_token=VRPpjoJ0Lz
+#EXTINF:-1 group-title="Malaysia",CELESTIAL MOVIES [ASTRO]
+http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1718.ts
+#EXTINF:-1 group-title="Malaysia",CELESTIAL CLASSIC MOVIES [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571182&extension=ts&play_token=d1GqjtyOeF
+#EXTINF:-1 group-title="Malaysia",WWE NETWORK [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571184&extension=ts&play_token=2lMTq7lno8
+#EXTINF:-1 group-title="Malaysia",TVB JADE [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571187&extension=ts&play_token=uNzsbd8mFh
+#EXTINF:-1 group-title="Malaysia",TVB E-NEWS [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571188&extension=ts&play_token=uecqvuvcHj
+#EXTINF:-1 group-title="Malaysia",TLC HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571189&extension=ts&play_token=31KOqgZjo2
+#EXTINF:-1 group-title="Malaysia",ONE HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571193&extension=ts&play_token=1adjIRQJk3
+#EXTINF:-1 group-title="Malaysia",TVB CLASSIC [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571197&extension=ts&play_token=XXWekQ9Zg0
+#EXTINF:-1 group-title="Malaysia",IQIYI HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571198&extension=ts&play_token=gQ80lZL1bZ
+#EXTINF:-1 group-title="Malaysia",HITS MOVIES [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571200&extension=ts&play_token=3LrPAO2n1H
+#EXTINF:-1 group-title="Malaysia",HISTORY HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571201&extension=ts&play_token=9IDotT4eDt
+#EXTINF:-1 group-title="Malaysia",DMAX HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571206&extension=ts&play_token=OHIRCIvfPJ
+#EXTINF:-1 group-title="Malaysia",DISNEY JUNIOR [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571208&extension=ts&play_token=zPefIyvHms
+#EXTINF:-1 group-title="Malaysia",DISCOVERY HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571210&extension=ts&play_token=rwT69XR29H
+#EXTINF:-1 group-title="Malaysia",DISCOVERY SCI HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571211&extension=ts&play_token=N0NOsjPlLD
+#EXTINF:-1 group-title="Malaysia",CTI ASIA [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571212&extension=ts&play_token=sgvLJz4t87
+#EXTINF:-1 group-title="Malaysia",CINEMAX HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571214&extension=ts&play_token=wVfte6lQIQ
+#EXTINF:-1 group-title="Malaysia",CRIME INVESTIGATION HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571215&extension=ts&play_token=W2NNQAPdzN
+#EXTINF:-1 group-title="Malaysia",CGTN [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571216&extension=ts&play_token=VpqccoT4pl
+#EXTINF:-1 group-title="Malaysia",AXN HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571222&extension=ts&play_token=cdCERm0pH0
+#EXTINF:-1 group-title="Malaysia",AOD 352 [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571225&extension=ts&play_token=bF1U9VNPon
+#EXTINF:-1 group-title="Malaysia",ANIMAL PLANET HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571227&extension=ts&play_token=RZq2XbI41f
+#EXTINF:-1 group-title="Malaysia",XIAO TAI YANG [H]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571230&extension=ts&play_token=MRMADB1isd
+#EXTINF:-1 group-title="Malaysia",OASIS HD [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571238&extension=ts&play_token=YNdTLbKy9Y
+#EXTINF:-1 group-title="Malaysia",AWANI [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571243&extension=ts&play_token=pOhfRI7pSL
+#EXTINF:-1 group-title="Malaysia",CRICKET [SP]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571244&extension=ts&play_token=Y4YEJt4Dm7
+#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 1 HD [SP]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571245&extension=ts&play_token=DrjoIhWn6A
+#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 2 HD [SP]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571248&extension=ts&play_token=fD3wWWYCF2
+#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 3 HD [SP]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571247&extension=ts&play_token=pXtwPncbT9
+#EXTINF:-1 group-title="Malaysia",ASTRO SUPERSPORTS 4 HD [SP]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571246&extension=ts&play_token=QV64UQ61Vj
+#EXTINF:-1 group-title="Malaysia",HITS [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571252&extension=ts&play_token=Uxqw6s9IUL
+#EXTINF:-1 group-title="Malaysia",CNA [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571251&extension=ts&play_token=7dblxU1TP3
+#EXTINF:-1 group-title="Malaysia",RANIA [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571256&extension=ts&play_token=fu4U3zU5VF
+#EXTINF:-1 group-title="Malaysia",AURA [ASTRO]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571257&extension=ts&play_token=5LRUbBiRLL
+#EXTINF:-1 group-title="Malaysia",TVN [H]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571260&extension=ts&play_token=XtA4c6UGdj
+#EXTINF:-1 group-title="Malaysia",TVN MOVIES [H]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571261&extension=ts&play_token=PO0sUF3ywn
+#EXTINF:-1 group-title="Malaysia",NICKELODEON [H]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571283&extension=ts&play_token=ZRgnKJlnox
+#EXTINF:-1 group-title="Malaysia",BERNAMA NEWS [H]
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571307&extension=ts&play_token=cpTUahvIeR
