@@ -519,7 +519,66 @@ https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 https://ali.hlspull.yximgs.com/live/asdfg32516.flv
 #EXTINF:-1 group-title="Test",翡翠台
 https://ali.hlspull.yximgs.com/live/c8293402a9c473fe8d8e50948edee223.flv
-
+#EXTINF:-1 group-title="Test",台視
+rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1 group-title="Test",中視
+rtmp://220.130.201.73/sat/tv091
+#EXTINF:-1 group-title="Test",華視
+rtmp://220.130.201.73/sat/tv111
+#EXTINF:-1 group-title="Test",民視
+rtmp://220.130.201.73/sat/tv051
+#EXTINF:-1 group-title="Test",東森超視
+rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1 group-title="Test",緯來育樂
+rtmp://220.130.201.73/sat/tv701
+#EXTINF:-1 group-title="Test",緯來體育
+rtmp://220.130.201.73/sat/tv721
+#EXTINF:-1 group-title="Test",MOMO綜合
+rtmp://220.130.201.73/sat/tv761
+#EXTINF:-1 group-title="Test",緯來日本
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 group-title="Test",ELEVEN1
+rtmp://220.130.201.73/sat/tv731
+#EXTINF:-1 group-title="Test",ELEVEN2
+rtmp://220.130.201.73/sat/tv741
+#EXTINF:-1 group-title="Test",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="Test",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="Test",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="Test",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="Test",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="Test",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="Test",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="Test",MOMO綜合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="Test",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="Test",ELEVEN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="Test",ELEVEN2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="Test",(大街)中視
+rtmp://220.130.201.73/sat/tv091
+#EXTINF:-1 group-title="Test",(大街)華視
+rtmp://220.130.201.73/sat/tv111
+#EXTINF:-1 group-title="Test",(大街)臺視
+rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1 group-title="Test",(大街)民視
+rtmp://220.130.201.73/sat/tv051
+#EXTINF:-1 group-title="Test",(大街)緯來體育
+rtmp://220.130.201.73/sat/tv721
+#EXTINF:-1 group-title="Test",(大街)緯來育樂
+rtmp://220.130.201.73/sat/tv701
+#EXTINF:-1 group-title="Test",(大街)緯來日本
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 group-title="Test",(大街)東森超視
+rtmp://220.130.201.73/sat/tv331
 
 #EXTINF:-1 group-title="PREMIER LEAGUE & Soccer",Now英超台
 http://60.30.198.43:5080/HK/nowty2/hls.m3u8
@@ -941,7 +1000,28 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台频道",华语电视3
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-
+#EXTINF:-1 group-title="港澳台频道",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港澳台频道",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港澳台频道",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港澳台频道",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="港澳台频道",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港澳台频道",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港澳台频道",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港澳台频道",MOMO綜合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="港澳台频道",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港澳台频道",ELEVEN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="港澳台频道",ELEVEN2
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 group-title="台灣",华视新闻
 https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
@@ -1192,6 +1272,28 @@ https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台灣",大爱二
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="台灣",民视
+rtmp://f13h.mine.nu/sat/tv051 
+#EXTINF:-1 group-title="台灣",台视
+rtmp://f13h.mine.nu/sat/tv071 
+#EXTINF:-1 group-title="台灣",中视
+rtmp://f13h.mine.nu/sat/tv091 
+#EXTINF:-1 group-title="台灣",华视
+rtmp://f13h.mine.nu/sat/tv111 
+#EXTINF:-1 group-title="台灣",纬来体育
+rtmp://f13h.mine.nu/sat/tv721 
+#EXTINF:-1 group-title="台灣",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701 
+#EXTINF:-1 group-title="台灣",纬来日本
+rtmp://f13h.mine.nu/sat/tv771 
+#EXTINF:-1 group-title="台灣",东森超视
+rtmp://f13h.mine.nu/sat/tv331 
+#EXTINF:-1 group-title="台灣",MoMo综合
+rtmp://f13h.mine.nu/sat/tv761 
+#EXTINF:-1 group-title="台灣",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731 
+#EXTINF:-1 group-title="台灣",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 group-title="香港",香港 翡翠台
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
