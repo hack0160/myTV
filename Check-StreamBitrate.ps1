@@ -101,6 +101,9 @@ foreach ($line in $lines) {
         else {
             Write-Host " => UNSTABLE, skipping"
         }
+
+        # Reset block after processing
+        $currentBlock = @()
 		
 		# -------------------------------
 		# Auto commit this iteration to GitHub
@@ -137,10 +140,6 @@ foreach ($line in $lines) {
 			Write-Host $_.Exception.Message
 		}
 
-
-
-        # Reset block after processing
-        $currentBlock = @()
         continue
     }
 }
