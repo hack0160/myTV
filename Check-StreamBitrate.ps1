@@ -106,41 +106,42 @@ foreach ($line in $lines) {
         $currentBlock = @()
         continue
     }
-
-	# -------------------------------
-	# Auto commit this iteration to GitHub
-	# -------------------------------
-	try {
-		Set-Location $gitRepoPath
-
-		$outputName = Split-Path $outputFile -Leaf
-		Write-Host "Preparing Git commit for: $outputName"
-
-		# Stage file
-		& $gitExe add $outputName
-
-		# Check if any changes exist
-		$status = & $gitExe status --porcelain
-
-		if ([string]::IsNullOrWhiteSpace($status)) {
-			Write-Host "No changes detected. Skipping Git commit."
-		}
-		else {
-			$commitMessage = "Updated stable stream list for $url at $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
-			Write-Host "Changes detected. Committing with message: $commitMessage"
-
-			& $gitExe commit -m "$commitMessage"
-
-			Write-Host "Commit created. Attempting to push to branch '$gitBranch'."
-			& $gitExe push origin $gitBranch
-
-			Write-Host "Git push completed successfully."
-		}
-	}
-	catch {
-		Write-Host "Git encountered an error:"
-		Write-Host $_.Exception.Message
-	}
 }
+
+# -------------------------------
+# Auto commit to GitHub at the end
+# -------------------------------
+try {
+    Set-Location $gitRepoPath
+
+    $outputName = Split-Path $outputFile -Leaf
+    Write-Host "Preparing Git commit for: $outputName"
+
+    # Stage file
+    & $gitExe add $outputName
+
+    # Check if any changes exist
+    $status = & $gitExe status --porcelain
+
+    if ([string]::IsNullOrWhiteSpace($status)) {
+        Write-Host "No changes detected. Skipping Git commit."
+    }
+    else {
+        $commitMessage = "Updated stable-live.m3u on $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+        Write-Host "Changes detected. Committing with message: $commitMessage"
+
+        & $gitExe commit -m "$commitMessage"
+
+        Write-Host "Commit created. Attempting to push to branch '$gitBranch'."
+        & $gitExe push origin $gitBranch
+
+        Write-Host "Git push completed successfully."
+    }
+}
+catch {
+    Write-Host "Git encountered an error:"
+    Write-Host $_.Exception.Message
+}
+
 
 Write-Host "`nDONE. Channels saved to $outputFile"
