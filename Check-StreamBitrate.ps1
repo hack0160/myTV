@@ -3,6 +3,9 @@ $inputFile    = "C:\Users\Vincent\OneDrive\Documents\GitHub\myTV\live.m3u"
 $outputFile   = "C:\Users\Vincent\OneDrive\Documents\GitHub\myTV\stable-live.m3u"
 $testSeconds  = 1
 $minMbps      = 0.01
+$gitRepoPath  = "C:\Users\Vincent\OneDrive\Documents\GitHub\myTV"
+$gitBranch    = "main"  # change to your branch if needed
+$gitExe = "C:\Program Files\Git\cmd\git.exe"
 
 # Function to remove non-ASCII characters
 function Remove-SpecialChars($text) {
@@ -27,10 +30,11 @@ foreach ($line in $lines) {
     if ($trimLine.StartsWith("#EXTINF")) {
         # Flush previous block if it exists
         if ($currentBlock.Count -gt 0) {
-            # Append any buffered #KODIPROP lines before URL
+															
             $currentBlock += $kodipropBuffer
             $kodipropBuffer = @()
         }
+
 		# Clean special characters in #EXTINF line
         $cleanLine = Remove-SpecialChars $trimLine
         $currentBlock = @($cleanLine)
@@ -46,7 +50,7 @@ foreach ($line in $lines) {
     # URL line
     if ($trimLine.ToLower().StartsWith("http")) {
 
-        # Finalize block: append buffered #KODIPROP before URL
+        # Finalize block: append buffered KODIPROP before URL
         $currentBlock += $kodipropBuffer
         $kodipropBuffer = @()
         $currentBlock += $trimLine
@@ -85,24 +89,60 @@ foreach ($line in $lines) {
         if ($mbps -ge $minMbps) {
             Write-Host " => STABLE, writing block to output"
 
-            # Append block to M3U without BOM
+            # Append block to M3U
             foreach ($bLine in $currentBlock) {
                 [System.IO.File]::AppendAllText($outputFile, $bLine + "`r`n", [System.Text.Encoding]::UTF8)
             }
 
             # Optional blank line
             [System.IO.File]::AppendAllText($outputFile, "`r`n", [System.Text.Encoding]::UTF8)
+
         }
         else {
             Write-Host " => UNSTABLE, skipping"
         }
+		
+		# -------------------------------
+		# Auto commit this iteration to GitHub
+		# -------------------------------
+		try {
+			Set-Location $gitRepoPath
+
+			$outputName = Split-Path $outputFile -Leaf
+			Write-Host "Preparing Git commit for: $outputName"
+
+			# Stage file
+			& $gitExe add $outputName
+
+			# Check if any changes exist
+			$status = & $gitExe status --porcelain
+
+			if ([string]::IsNullOrWhiteSpace($status)) {
+				Write-Host "No changes detected. Skipping Git commit."
+			}
+			else {
+				$commitMessage = "Updated stable stream list for $url at $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+				Write-Host "Changes detected. Committing with message: $commitMessage"
+
+				& $gitExe commit -m "$commitMessage"
+
+				Write-Host "Commit created. Attempting to push to branch '$gitBranch'."
+				& $gitExe push origin $gitBranch
+
+				Write-Host "Git push completed successfully."
+			}
+		}
+		catch {
+			Write-Host "Git encountered an error:"
+			Write-Host $_.Exception.Message
+		}
+
+
 
         # Reset block after processing
         $currentBlock = @()
         continue
     }
-
-    # If line is anything else, ignore or add if needed
 }
 
 Write-Host "`nDONE. Channels saved to $outputFile"
