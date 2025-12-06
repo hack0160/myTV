@@ -1,5 +1,5 @@
 # Config
-$inputFile    = "C:\Users\Vincent\OneDrive\Documents\GitHub\myTV\live-dev.m3u"
+$inputFile    = "C:\Users\Vincent\OneDrive\Documents\GitHub\myTV\pejal-live.m3u"
 $outputFile   = "C:\Users\Vincent\OneDrive\Documents\GitHub\myTV\stable-live.m3u"
 $testSeconds  = 1
 $minMbps      = 0.01
