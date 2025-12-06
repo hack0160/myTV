@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv1
+
+#EXTINF:-1 tvg-id="TV2.my" ch-number="102" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv2.png", 102 TV2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv2
+
+#EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 (C)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
+
 #EXTINF:-1 tvg-id="NTV7" tvg-logo="https://get.perfecttv.net/logo/ntv7.png" group-logo="" group-title="MALAYSIA",104 TV7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -15,6 +34,31 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
 
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv9.png",106 TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv9
+
+#EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tvs.png",107 TVS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvs
+
+#EXTINF:-1 tvg-id="okey" ch-number="146" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/okey.png", 108 Okey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=okey
+
+#EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/enjoytv5.png", 109 Enjoy TV5
+https://get.perfecttv.net/mytv.m3u8?channel=tv5
+
+#EXTINF:-1 tvg-id="'alhijrah" ch-number="114" tvg-name="TV ALHIJRAH" tvg-logo="https://get.perfecttv.net/logo/alhijrah.png" group-title="MALAYSIA",110 Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
+
 #EXTINF:-1 group-logo="" channel-id="118" tvg-name="Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",111 Inspirasi 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -29,40 +73,121 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=salamhd
 
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=awani
+
+#EXTINF:-1 tvg-id="bernama" ch-number="502" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/bernama.png",114 Bernama
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bernama
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="106.astro" tvg-logo="https://get.perfecttv.net/logo/oasis.png" ,115 Oasis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121
+#Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="113.astro" tvg-logo="https://get.perfecttv.net/logo/aura.png" ,122 Aura
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aurahd
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="112.astro" tvg-logo="https://get.perfecttv.net/logo/rania.png" ,123 Rania
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=raniahd
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/jomngaji.png" ,124 Jom Ngaji
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d&channel=jomngaji
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/lawaksentral.png" ,125 Lawak Sentral
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=440ab476-481d-4d09-b7b0-3664e8652ede&channel=lawaksentral
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/ohmyceria.png" ,126 Oh My Ceria
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd?aws.sessionId=653a17be-4813-4757-8724-ae68ab7a34b7&channel=myceria
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/dramahebat.png" ,127 Drama Hebat
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=449fab5e-19fb-4843-9cc5-8209e03a725d&channel=dramahebat
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/filemmantap.png" ,128 Filem Mantap
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=273a091c-2f5b-4571-bf71-269dbd89263e&channel=filemmantap
+
 #EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/dramahotpot.png" ,129 Drama Hotpot
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH4_DRAMAHOTPOT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=556d7c21-4b5b-4d9b-8021-014923e53be9&channel=dramahotpot
 
-#EXTINF:-1 group-logo="" group-title="MOVIES"  ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://get.perfecttv.net/logo/duniasenima.png",137 Dunia Sinema
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=duniasenima
+#EXTINF:-1 tvg-id="NET.TV.id" tvg-logo="https://get.perfecttv.net/logo/net.png" group-title="INDONESIA",1 NET TV (web)
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=875
 
-#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/siar.png",138 Siar 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/gtv.png" group-title="INDONESIA",GTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=siar
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://get.perfecttv.net/dashVision2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=gtv
 
-#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="MOVIES",148 Galaxy
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aod.png" tvg-id="",123 AOD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxy
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd?channel=aod
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://get.perfecttv.net/logo/studiouniversal.png" group-title="MOVIES",159 Studio Universal
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="333.astro" tvg-logo="https://get.perfecttv.net/logo/huaheedai2.png" group-logo="" group-title ="",125 Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=huaheedai
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://get.perfecttv.net/logo/originals.png" group-title="MOVIES",159 Originals
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="300.astro" tvg-logo="https://get.perfecttv.net/logo/iqiyi.png" ,126 iQIYI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=iqiyi
 
-#EXTINF:-1 tvg-id="" tvg-name="160 Cineedge" tvg-logo="https://get.perfecttv.net/logo/cineedge.png" group-title="MOVIES",160 Cineedge
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://get.perfecttv.net/logo/qj.png" ,127 QJ (A)
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj
+
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://get.perfecttv.net/logo/qjfhd.png" ,127 QJ FHD
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbjade.png",128 TVB Jade
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cineedge
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbjade
+
+#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS Asia HD" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbs.png",129 TVBS Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbsasia
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbxinghe.png",130 TVB 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
 
