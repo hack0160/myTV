@@ -1,0 +1,25 @@
+ï»¿#EXTM3U
+#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://get.perfecttv.net/logo/ntv7.png" group-logo="" group-title="MALAYSIA",104 TV7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ntv7
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MALAYSIA"  tvg-logo="https://get.perfecttv.net/logo/8tv.png",105 8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=20
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=timeShiftBufferDepth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
+
+#EXTINF:-1 group-logo="" channel-id="118" tvg-name="Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",111 Inspirasi 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=inspirasi
+
